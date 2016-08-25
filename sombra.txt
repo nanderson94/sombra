@@ -1,0 +1,37 @@
+* Rebuilt URL to: amomentincrime.com/
+*   Trying 52.85.99.57...
+* Connected to amomentincrime.com (52.85.99.57) port 80 (#0)
+> GET / HTTP/1.1
+> Host: amomentincrime.com
+> User-Agent: curl/7.50.1
+> Accept: */*
+> 
+< HTTP/1.1 200 OK
+< Content-Type: text/html
+< Content-Length: 410
+< Connection: keep-alive
+< Date: Thu, 25 Aug 2016 04:12:23 GMT
+< Last-Modified: Thu, 25 Aug 2016 03:24:27 GMT
+< ETag: "ba4b81adc81d0366f67ff8bfd22e70f8"
+< Accept-Ranges: bytes
+< Server: AmazonS3
+< Age: 86
+< X-Cache: Hit from cloudfront
+< 
+{ [410 bytes data]
+* Connection #0 to host amomentincrime.com left intact
+<html>
+<p><br>
+<body bgcolor="black">
+<font face="lucida console" color="a939ff">
+...Estableciendo conexión...<br>
+...Protocolo Sombra v1.9 iniciado...<br>
+<!-- Bien hecho, ya tienen mi clave. Hackear este programa de televisión no tuvo chiste. Espérense a lo que sigue.-->
+<br>
+...Transmitiendo información a ómnicos activos... 5% <br>
+<br>
+...Terminando conexión...
+</body>
+</font>
+</p>
+</html>
