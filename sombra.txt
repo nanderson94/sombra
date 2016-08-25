@@ -11,7 +11,7 @@
 < ETag: "ba4b81adc81d0366f67ff8bfd22e70f8"
 < Accept-Ranges: bytes
 < Server: AmazonS3
-< X-Cache: Hit from cloudfront
+< X-Cache: RefreshHit from cloudfront
 < 
 { [410 bytes data]
 * Connection #0 to host amomentincrime.com left intact
