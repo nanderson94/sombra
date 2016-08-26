@@ -5,27 +5,33 @@
 > 
 < HTTP/1.1 200 OK
 < Content-Type: text/html
-< Content-Length: 410
+< Content-Length: 634
 < Connection: keep-alive
-< Last-Modified: Thu, 25 Aug 2016 03:24:27 GMT
-< ETag: "ba4b81adc81d0366f67ff8bfd22e70f8"
+< Last-Modified: Fri, 26 Aug 2016 18:49:16 GMT
+< ETag: "2165d53e3c6689b7532bfef741ad4489"
 < Accept-Ranges: bytes
 < Server: AmazonS3
 < 
-{ [410 bytes data]
+{ [634 bytes data]
 * Connection #0 to host amomentincrime.com left intact
 <html>
-<p><br>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+
 <body bgcolor="black">
+<p><br>
 <font face="lucida console" color="a939ff">
-...Estableciendo conexi髇...<br>
-...Protocolo Sombra v1.9 iniciado...<br>
-<!-- Bien hecho, ya tienen mi clave. Hackear este programa de televisi髇 no tuvo chiste. Esp閞ense a lo que sigue.-->
+...Estableciendo conexi贸n...<br>
+...Protocolo Sombra v1.95 iniciado...<br>
+<!-- Bien hecho, ya tienen mi clave. Hackear este programa de televisi贸n no tuvo chiste. Esp茅rense a lo que sigue.-->
+<!-- Parece que se est谩n calentando un poco las cosas... tendr茅 que pasar desapercibida mientras esto se finaliza. -->
 <br>
-...Transmitiendo informaci髇 a 髆nicos activos... 5% <br>
+...Transmitiendo informaci贸n a 贸mnicos activos... 5.4410% <br>
 <br>
-...Terminando conexi髇...
-</body>
+...Terminando conexi贸n...
 </font>
 </p>
+
+</body>
 </html>
