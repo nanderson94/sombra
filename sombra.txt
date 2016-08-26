@@ -7,8 +7,8 @@
 < Content-Type: text/html
 < Content-Length: 634
 < Connection: keep-alive
-< Last-Modified: Fri, 26 Aug 2016 23:01:50 GMT
-< ETag: "a810050e3082020591ddc8e47437b8b9"
+< Last-Modified: Fri, 26 Aug 2016 23:07:51 GMT
+< ETag: "58f4a939fcd4db7f839c324b8e6f9cb5"
 < Accept-Ranges: bytes
 < Server: AmazonS3
 < 
@@ -27,7 +27,7 @@
 <!-- Bien hecho, ya tienen mi clave. Hackear este programa de televisión no tuvo chiste. Espérense a lo que sigue.-->
 <!-- Parece que se están calentando un poco las cosas... tendré que pasar desapercibida mientras esto se finaliza. -->
 <br>
-...Transmitiendo información a ómnicos activos... 5.7599% <br>
+...Transmitiendo información a ómnicos activos... 5.7675% <br>
 <br>
 ...Terminando conexión...
 </font>
